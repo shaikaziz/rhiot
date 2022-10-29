@@ -99,7 +99,7 @@
 		<qpid.version>0.32</qpid.version>
 		<reflections.version>0.9.10</reflections.version>
 		<servlet-api.version>3.1.0</servlet-api.version>
-		<slfj4.version>1.7.12</slfj4.version>
+		<slfj4.version>1.7.36</slfj4.version>
 		<spark.version>1.5.1</spark.version>
 		<tinkerforge.version>2.1.5</tinkerforge.version>
 		<v4l4j.version>0.9.1-r507</v4l4j.version>
